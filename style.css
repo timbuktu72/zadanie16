@@ -1,0 +1,36 @@
+body {
+    
+    background-color: grey;
+}
+
+h1 {
+    color: white;
+}
+.kwadrat1 {
+     width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin-left: 10px;
+}
+.kwadrat2 {
+     width: 100px;
+    height: 100px;
+    background-color: yellow;  
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.kwadrat3 {
+     width: 100px;
+    height: 100px;
+    background-color: yellow;  
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.kwadrat4 {
+     width: 100px;
+    height: 100px;
+    background-color: yellow;  
+    margin-top: 10px;
+    margin-left: 10px;
+}
